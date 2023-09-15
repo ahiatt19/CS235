@@ -1,0 +1,68 @@
+cmake_minimum_required(VERSION 3.26)
+project(CS235)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(Unit01-Intro-to-cpp/homework1a-intro-to-cpp)
+include_directories(Unit01-Intro-to-cpp/homework1b-file-io)
+include_directories(Unit01-Intro-to-cpp/homework1c-references)
+include_directories(Unit02-STL-data-structures/homework2a-uniq)
+include_directories(Unit02-STL-data-structures/homework2b-vector-set)
+include_directories(Unit02-STL-data-structures/homework2c-pqueues)
+include_directories(Unit03-Sorting/homework3b-maze)
+include_directories(Unit03-Sorting/homework3c-insertion-sort)
+include_directories(Unit03-Sorting/homework3d-quicksort)
+include_directories(Unit04-Mechanics-of-lists/homework4a-sllist)
+include_directories(Unit04-Mechanics-of-lists/homework4b-dllist)
+include_directories(Unit04-Mechanics-of-lists/homework4c-vector)
+include_directories(Unit04-Mechanics-of-lists/homework4d-vector_iterators)
+include_directories(Unit05-Mechanics-of-trees/homework5a-bst-traversal)
+include_directories(Unit05-Mechanics-of-trees/homework5b-bst)
+include_directories(Unit05-Mechanics-of-trees/homework5c-avl-rebalance)
+include_directories(Unit05-Mechanics-of-trees/homework5d-avl)
+include_directories(Unit06-Mechanics-of-hashtables/homework6a-hashset)
+include_directories(Unit07-Mechanics-of-heaps/homework7a-set-comparisons)
+
+add_executable(CS235
+        Unit01-Intro-to-cpp/homework1a-intro-to-cpp/calculator.cpp
+        Unit01-Intro-to-cpp/homework1a-intro-to-cpp/numbers_divisible_by.cpp
+        Unit01-Intro-to-cpp/homework1a-intro-to-cpp/practice.cpp
+        Unit01-Intro-to-cpp/homework1a-intro-to-cpp/practice.h
+        Unit01-Intro-to-cpp/homework1b-file-io/longest_line.cpp
+        Unit01-Intro-to-cpp/homework1b-file-io/reformat.cpp
+        Unit01-Intro-to-cpp/homework1c-references/head.cpp
+        Unit01-Intro-to-cpp/homework1c-references/sort.cpp
+        Unit02-STL-data-structures/homework2a-uniq/uniq.cpp
+        Unit02-STL-data-structures/homework2b-vector-set/tests.cpp
+        Unit02-STL-data-structures/homework2b-vector-set/VectorSet.h
+        Unit02-STL-data-structures/homework2c-pqueues/input.h
+        Unit02-STL-data-structures/homework2c-pqueues/pqueues.cpp
+        Unit03-Sorting/homework3b-maze/Grid.h
+        Unit03-Sorting/homework3b-maze/maze.cpp
+        Unit03-Sorting/homework3c-insertion-sort/sort.cpp
+        Unit03-Sorting/homework3d-quicksort/QS.h
+        Unit03-Sorting/homework3d-quicksort/tests.cpp
+        Unit04-Mechanics-of-lists/homework4a-sllist/SLList.h
+        Unit04-Mechanics-of-lists/homework4a-sllist/tests.cpp
+        Unit04-Mechanics-of-lists/homework4b-dllist/DLList.h
+        Unit04-Mechanics-of-lists/homework4b-dllist/tests.cpp
+        Unit04-Mechanics-of-lists/homework4c-vector/tests.cpp
+        Unit04-Mechanics-of-lists/homework4c-vector/Vector.h
+        Unit04-Mechanics-of-lists/homework4d-vector_iterators/tests.cpp
+        Unit04-Mechanics-of-lists/homework4d-vector_iterators/Vector.h
+        Unit05-Mechanics-of-trees/homework5a-bst-traversal/find.h
+        Unit05-Mechanics-of-trees/homework5a-bst-traversal/printing.h
+        Unit05-Mechanics-of-trees/homework5a-bst-traversal/tests.cpp
+        Unit05-Mechanics-of-trees/homework5b-bst/BST.h
+        Unit05-Mechanics-of-trees/homework5b-bst/printing.h
+        Unit05-Mechanics-of-trees/homework5b-bst/tests.cpp
+        Unit05-Mechanics-of-trees/homework5c-avl-rebalance/printing.h
+        Unit05-Mechanics-of-trees/homework5c-avl-rebalance/rebalance.h
+        Unit05-Mechanics-of-trees/homework5c-avl-rebalance/tests.cpp
+        Unit05-Mechanics-of-trees/homework5d-avl/AVL.h
+        Unit05-Mechanics-of-trees/homework5d-avl/printing.h
+        Unit05-Mechanics-of-trees/homework5d-avl/tests.cpp
+        Unit06-Mechanics-of-hashtables/homework6a-hashset/HashSet.h
+        Unit06-Mechanics-of-hashtables/homework6a-hashset/tests.cpp
+        Unit07-Mechanics-of-heaps/homework7a-set-comparisons/main.cpp
+        Unit07-Mechanics-of-heaps/homework7a-set-comparisons/timing.h)
