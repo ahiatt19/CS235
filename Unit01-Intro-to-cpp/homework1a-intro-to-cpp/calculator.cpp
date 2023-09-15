@@ -11,6 +11,7 @@ std::string input(std::string prompt) {
 
 int main(int argc, char const* argv[]) {
     // Write your code here
+    lol help me
 
     return 0;
 }
