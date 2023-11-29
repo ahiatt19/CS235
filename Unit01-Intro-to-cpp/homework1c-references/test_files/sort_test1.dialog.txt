@@ -1,1 +1,5 @@
 ``egregious;word-1;33`` ``exalt;word-2;33`` ``indomitable;word-3;33``
+
+egregious
+exalt
+indominable

@@ -65,4 +65,5 @@ add_executable(CS235
         Unit06-Mechanics-of-hashtables/homework6a-hashset/HashSet.h
         Unit06-Mechanics-of-hashtables/homework6a-hashset/tests.cpp
         Unit07-Mechanics-of-heaps/homework7a-set-comparisons/main.cpp
-        Unit07-Mechanics-of-heaps/homework7a-set-comparisons/timing.h)
+        Unit07-Mechanics-of-heaps/homework7a-set-comparisons/timing.h
+        Unit03-Sorting/homework3d-quicksort/hw.cpp)

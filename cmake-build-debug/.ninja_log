@@ -1,0 +1,20 @@
+# ninja log v5
+56	1111	7164496339685126	CMakeFiles/CS235.dir/Unit02-STL-data-structures/homework2a-uniq/uniq.cpp.obj	459b6c7ce39ebbf9
+75	1134	7164496339997345	CMakeFiles/CS235.dir/Unit02-STL-data-structures/homework2c-pqueues/pqueues.cpp.obj	29ddeb4c88a0f447
+43	1126	7164496339825131	CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1c-references/head.cpp.obj	8e5c24027a7a23d5
+94	1129	7164496339715098	CMakeFiles/CS235.dir/Unit03-Sorting/homework3c-insertion-sort/sort.cpp.obj	6310b2005453e691
+20	708	7164496472848938	CMakeFiles/CS235.dir/Unit04-Mechanics-of-lists/homework4b-dllist/tests.cpp.obj	d47176e2f5793364
+14	673	7164496472511291	CMakeFiles/CS235.dir/Unit06-Mechanics-of-hashtables/homework6a-hashset/tests.cpp.obj	6ef91a2b8494f2b4
+8	1130	7164496339895098	CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1b-file-io/longest_line.cpp.obj	791afbe3f636b6fc
+21	1145	7164496340138549	CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1a-intro-to-cpp/numbers_divisible_by.cpp.obj	b77b7e64dc78299e
+28	1147	7164496340158562	CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1b-file-io/reformat.cpp.obj	30ff328d36603651
+34	1164	7164496340338625	CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1c-references/sort.cpp.obj	2459ed54949b464c
+112	1185	7164496340535873	CMakeFiles/CS235.dir/Unit04-Mechanics-of-lists/homework4a-sllist/tests.cpp.obj	79ce06ec7bca88a2
+63	1189	7164496340567013	CMakeFiles/CS235.dir/Unit02-STL-data-structures/homework2b-vector-set/tests.cpp.obj	1dcbdda8a0c96246
+101	1211	7164496340813355	CMakeFiles/CS235.dir/Unit03-Sorting/homework3b-maze/maze.cpp.obj	a579f0d275383344
+85	1320	7164496341911684	CMakeFiles/CS235.dir/Unit03-Sorting/homework3d-quicksort/tests.cpp.obj	ca6c0f897694cca1
+58	998	7164496475764156	CMakeFiles/CS235.dir/Unit05-Mechanics-of-trees/homework5d-avl/tests.cpp.obj	f3d8104b4e651a80
+25	772	7164496473510305	CMakeFiles/CS235.dir/Unit04-Mechanics-of-lists/homework4c-vector/tests.cpp.obj	ce1efabc8229af18
+51	968	7164496475466649	CMakeFiles/CS235.dir/Unit05-Mechanics-of-trees/homework5c-avl-rebalance/tests.cpp.obj	a73a6d0ed901604d
+37	979	7164496475579036	CMakeFiles/CS235.dir/Unit05-Mechanics-of-trees/homework5b-bst/tests.cpp.obj	b6bc0f8d98f3e914
+31	1033	7164496476074133	CMakeFiles/CS235.dir/Unit05-Mechanics-of-trees/homework5a-bst-traversal/tests.cpp.obj	282f873d9da32d9c

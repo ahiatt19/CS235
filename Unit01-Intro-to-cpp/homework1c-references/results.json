@@ -1,0 +1,536 @@
+{
+    "tests": [
+        {
+            "score": 0.125,
+            "max_score": 0.125,
+            "name": "test_sort.py::test_1[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_1[word-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_1[word-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.125,
+            "max_score": 0.125,
+            "name": "test_sort.py::test_3[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_3[word-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_3[word-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.125,
+            "max_score": 0.125,
+            "name": "test_sort.py::test_4[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_4[word-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_4[word-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0244,
+            "max_score": 1.0,
+            "name": "test_head.py::test_no_arguments[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'not enough passed in arguments\\nERROR: file no number given not found\\n           ' == 'aaaaaaa\\nbbbbbbbb\\nc\\nddddd\\nee\\nfffffffff\\ngggggggggg\\nhhhh\\niiiiiiii\\njjjjjjjj\\naaaaaaa\\nbbbbbbbb\\nc\\nddddd\\nee\\nfffffffff\\ngggggggggg\\nhhhh\\niiiiiiii\\njjjjjjjj\\n'\nE             + not enough passed in arguments\nE             + ERROR: file no number given not found\nE             +            \nE             - aaaaaaa\nE             - bbbbbbbb\nE             - c\nE             - ddddd\nE             - ee\nE             - fffffffff\nE             - gggggggggg\nE             - hhhh\nE             - iiiiiiii\nE             - jjjjjjjj\nE             - aaaaaaa\nE             - bbbbbbbb\nE             - c\nE             - ddddd\nE             - ee\nE             - fffffffff\nE             - gggggggggg\nE             - hhhh\nE             - iiiiiiii\nE             - jjjjjjjj\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1286,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-1]",
+            "output": "\ngroup_name = 'line-1'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'ough pa' == 'aaaaaaa'\nE             - aaaaaaa\nE             + ough pa\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-2]",
+            "output": "\ngroup_name = 'line-2'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'sed in a' == 'bbbbbbbb'\nE             - bbbbbbbb\nE             + sed in a\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-3]",
+            "output": "\ngroup_name = 'line-3'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'g' == 'c'\nE             - c\nE             + g\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-4]",
+            "output": "\ngroup_name = 'line-4'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'ments' == 'ddddd'\nE             - ddddd\nE             + ments\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-5]",
+            "output": "\ngroup_name = 'line-5'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'ER' == 'ee'\nE             - ee\nE             + ER\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-6]",
+            "output": "\ngroup_name = 'line-6'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'OR: file ' == 'fffffffff'\nE             - fffffffff\nE             + OR: file\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.09,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-7]",
+            "output": "\ngroup_name = 'line-7'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'o number g' == 'gggggggggg'\nE             - gggggggggg\nE             + o number g\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-8]",
+            "output": "\ngroup_name = 'line-8'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '' == 'hhhh'\nE             - hhhh\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1125,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-9]",
+            "output": "\ngroup_name = 'line-9'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'iven ' == 'iiiiiiii'\nE             - iiiiiiii\nE             + iven\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-10]",
+            "output": "\ngroup_name = 'line-10'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'ot found' == 'jjjjjjjj'\nE             - jjjjjjjj\nE             + ot found\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0143,
+            "max_score": 0.2,
+            "name": "test_head.py::test_only_number_of_lines[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'not enough passed in arguments\\nERROR: file no number given not found\\n           ' == 'aaa\\nbbbbb\\nc\\ndddddd\\neeeeee\\nfffff\\ngg\\naaa\\nbbbbb\\nc\\ndddddd\\neeeeee\\nfffff\\ngg\\n          '\nE             + not enough passed in arguments\nE             + ERROR: file no number given not found\nE             - aaa\nE             - bbbbb\nE             - c\nE             - dddddd\nE             - eeeeee\nE             - fffff\nE             - gg\nE             - aaa\nE             - bbbbb\nE             - c\nE             - dddddd\nE             - eeeeee\nE             - fffff\nE             - gg\nE             -           \nE             +            \nE             ?           +\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-1]",
+            "output": "\ngroup_name = 'line-1'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'OR:' == 'aaa'\nE             - aaa\nE             + OR:\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-2]",
+            "output": "\ngroup_name = 'line-2'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'file ' == 'bbbbb'\nE             - bbbbb\nE             + file\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-3]",
+            "output": "\ngroup_name = 'line-3'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'o' == 'c'\nE             - c\nE             + o\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-4]",
+            "output": "\ngroup_name = 'line-4'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'number' == 'dddddd'\nE             - dddddd\nE             + number\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.2333,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-5]",
+            "output": "\ngroup_name = 'line-5'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'given ' == 'eeeeee'\nE             - eeeeee\nE             + given\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.28,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-6]",
+            "output": "\ngroup_name = 'line-6'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'ot fo' == 'fffff'\nE             - fffff\nE             + ot fo\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-7]",
+            "output": "\ngroup_name = 'line-7'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'nd' == 'gg'\nE             - gg\nE             + nd\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 1.0,
+            "name": "test_head.py::test_only_input_file[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'not enough passed in arguments\\nERROR: file no number given not found\\n           ' == '1\\n2\\n3\\n4\\n5\\n6\\n7\\n8\\n9\\n10\\n                                                           '\nE             + not enough passed in arguments\nE             + ERROR: file no number given not found\nE             +            \nE             - 1\nE             - 2\nE             - 3\nE             - 4\nE             - 5\nE             - 6\nE             - 7\nE             - 8\nE             - 9\nE             - 10\nE             -\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-1]",
+            "output": "\ngroup_name = 'line-1'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'not enough passed in arguments\\nERROR: file no num' == '1'\nE             - 1\nE             + not enough passed in arguments\nE             + ERROR: file no num\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-2]",
+            "output": "\ngroup_name = 'line-2'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'e' == '2'\nE             - 2\nE             + e\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-3]",
+            "output": "\ngroup_name = 'line-3'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert ' ' == '3'\nE             Strings contain only whitespace, escaping them using repr()\nE             - '3'\nE             + ' '\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-4]",
+            "output": "\ngroup_name = 'line-4'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'i' == '4'\nE             - 4\nE             + i\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-5]",
+            "output": "\ngroup_name = 'line-5'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'e' == '5'\nE             - 5\nE             + e\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-6]",
+            "output": "\ngroup_name = 'line-6'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert ' ' == '6'\nE             Strings contain only whitespace, escaping them using repr()\nE             - '6'\nE             + ' '\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-7]",
+            "output": "\ngroup_name = 'line-7'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'o' == '7'\nE             - 7\nE             + o\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-8]",
+            "output": "\ngroup_name = 'line-8'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert ' ' == '8'\nE             Strings contain only whitespace, escaping them using repr()\nE             - '8'\nE             + ' '\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-9]",
+            "output": "\ngroup_name = 'line-9'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'o' == '9'\nE             - 9\nE             + o\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-10]",
+            "output": "\ngroup_name = 'line-10'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'nd' == '10'\nE             - 10\nE             + nd\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0692,
+            "max_score": 0.9,
+            "name": "test_head.py::test_both_arguments[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'not enough passed in arguments\\nERROR: file no number given not found\\n           ' == '1\\n2\\n3\\n4\\n5\\n6\\n7\\n8\\n9\\n10\\n11\\n12\\n13\\n                                                  '\nE             + not enough passed in arguments\nE             + ERROR: file no number given not found\nE             +            \nE             - 1\nE             - 2\nE             - 3\nE             - 4\nE             - 5\nE             - 6\nE             - 7\nE             - 8\nE             - 9\nE             - 10\nE             - 11\nE             - 12\nE             - 13\nE             -\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-1]",
+            "output": "\ngroup_name = 'line-1'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'not enough passed in arguments\\nERROR: fi' == '1'\nE             - 1\nE             + not enough passed in arguments\nE             + ERROR: fi\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-2]",
+            "output": "\ngroup_name = 'line-2'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'e' == '2'\nE             - 2\nE             + e\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-3]",
+            "output": "\ngroup_name = 'line-3'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'n' == '3'\nE             - 3\nE             + n\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-4]",
+            "output": "\ngroup_name = 'line-4'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert ' ' == '4'\nE             Strings contain only whitespace, escaping them using repr()\nE             - '4'\nE             + ' '\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-5]",
+            "output": "\ngroup_name = 'line-5'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'u' == '5'\nE             - 5\nE             + u\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-6]",
+            "output": "\ngroup_name = 'line-6'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'b' == '6'\nE             - 6\nE             + b\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-7]",
+            "output": "\ngroup_name = 'line-7'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'r' == '7'\nE             - 7\nE             + r\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-8]",
+            "output": "\ngroup_name = 'line-8'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'g' == '8'\nE             - 8\nE             + g\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-9]",
+            "output": "\ngroup_name = 'line-9'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'v' == '9'\nE             - 9\nE             + v\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-10]",
+            "output": "\ngroup_name = 'line-10'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'n ' == '10'\nE             - 10\nE             + n\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-11]",
+            "output": "\ngroup_name = 'line-11'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'ot' == '11'\nE             - 11\nE             + ot\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-12]",
+            "output": "\ngroup_name = 'line-12'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'fo' == '12'\nE             - 12\nE             + fo\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-13]",
+            "output": "\ngroup_name = 'line-13'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'nd' == '13'\nE             - 13\nE             + nd\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0667,
+            "max_score": 1.0,
+            "name": "test_head.py::test_not_enough_lines[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'not enough passed in arguments\\nERROR: file no number given not found\\n           ' == '1\\n2\\n3\\n4\\n5\\n6\\n7\\n8\\n9\\n10\\n11\\n12\\n13\\n14\\n15\\n                                            '\nE             + not enough passed in arguments\nE             + ERROR: file no number given not found\nE             +            \nE             - 1\nE             - 2\nE             - 3\nE             - 4\nE             - 5\nE             - 6\nE             - 7\nE             - 8\nE             - 9\nE             - 10\nE             - 11\nE             - 12\nE             - 13\nE             - 14\nE             - 15\nE             -\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-1]",
+            "output": "\ngroup_name = 'line-1'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'not enough passed in arguments\\nERR' == '1'\nE             - 1\nE             + not enough passed in arguments\nE             + ERR\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-2]",
+            "output": "\ngroup_name = 'line-2'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'R' == '2'\nE             - 2\nE             + R\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-3]",
+            "output": "\ngroup_name = 'line-3'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert ' ' == '3'\nE             Strings contain only whitespace, escaping them using repr()\nE             - '3'\nE             + ' '\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-4]",
+            "output": "\ngroup_name = 'line-4'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'i' == '4'\nE             - 4\nE             + i\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-5]",
+            "output": "\ngroup_name = 'line-5'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'e' == '5'\nE             - 5\nE             + e\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-6]",
+            "output": "\ngroup_name = 'line-6'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'n' == '6'\nE             - 6\nE             + n\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-7]",
+            "output": "\ngroup_name = 'line-7'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert ' ' == '7'\nE             Strings contain only whitespace, escaping them using repr()\nE             - '7'\nE             + ' '\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-8]",
+            "output": "\ngroup_name = 'line-8'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'u' == '8'\nE             - 8\nE             + u\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-9]",
+            "output": "\ngroup_name = 'line-9'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'b' == '9'\nE             - 9\nE             + b\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-10]",
+            "output": "\ngroup_name = 'line-10'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'r ' == '10'\nE             - 10\nE             + r\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-11]",
+            "output": "\ngroup_name = 'line-11'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'iv' == '11'\nE             - 11\nE             + iv\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-12]",
+            "output": "\ngroup_name = 'line-12'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'n ' == '12'\nE             - 12\nE             + n\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-13]",
+            "output": "\ngroup_name = 'line-13'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'ot' == '13'\nE             - 13\nE             + ot\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-14]",
+            "output": "\ngroup_name = 'line-14'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'fo' == '14'\nE             - 14\nE             + fo\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-15]",
+            "output": "\ngroup_name = 'line-15'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'nd' == '15'\nE             - 15\nE             + nd\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4583,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_1[word-2]",
+            "output": "\ngroup_name = 'word-2'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'egregious' == 'exalt'\nE             - exalt\nE             + egregious\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.125,
+            "name": "test_sort.py::test_2[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '                                                                                ' == 'chicanery clamor furtive\\n                                                       '\nE             Strings contain only whitespace, escaping them using repr()\nE             - 'chicanery clamor furtive\\n                                                       '\nE             + '                                                                                '\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_2[word-1]",
+            "output": "\ngroup_name = 'word-1'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '' == 'chicanery'\nE             - chicanery\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_2[word-2]",
+            "output": "\ngroup_name = 'word-2'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '' == 'clamor'\nE             - clamor\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_2[word-3]",
+            "output": "\ngroup_name = 'word-3'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '' == 'furtive'\nE             - furtive\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_3[word-3]",
+            "output": "\ngroup_name = 'word-3'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'cacophony' == 'deluge'\nE             - deluge\nE             + cacophony\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_4[word-3]",
+            "output": "\ngroup_name = 'word-3'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'empathy' == 'multifarious'\nE             - multifarious\nE             + empathy\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        }
+    ]
+}

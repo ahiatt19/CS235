@@ -5,32 +5,74 @@
 
 template<class T>
 class Vector {
-public:
-    Vector() {}
+private:
+    T* elements;
+    int capacity;
+    int currentSize;
 
-    ~Vector() {}
+    void resize() {
+        if (currentSize >= capacity) {
+            int newCapacity = (capacity == 0) ? 1 : capacity * 2;
+            T* newElements = new T[newCapacity];
+            for (int i = 0; i < currentSize; ++i) {
+                newElements[i] = elements[i];
+            }
+            delete[] elements;
+            elements = newElements;
+            capacity = newCapacity;
+
+        }
+    }
+public:
+    Vector() : elements(nullptr), capacity(0), currentSize(0) {}
+
+    ~Vector() {
+        delete[] elements;
+    }
 
     void push_back(T item) {
-        // implement push_back here
+        resize();
+        elements[currentSize++] = item;
     }
 
     void insert(T item, int position) {
-        // implement insert here
+        if (position < 0 || position > currentSize) {
+            throw std:: out_of_range("Index out of range");
+        }
+        resize();
+        for (int i = currentSize; i > position; --i) {
+            elements[i] = elements[i - 1];
+        }
+        elements[position] = item;
+        ++currentSize;
     }
 
     void remove(int position) {
-        // implement remove here
+        if (position < 0 || position >= currentSize) {
+            throw std::out_of_range("Index out of range");
+        }
+        for (int i = position; i < currentSize - 1; ++i) {
+            elements[i] = elements[i + 1];
+        }
+        --currentSize;
+
     }
 
     T& operator[](int index) {
-        // implement operator[] here
+        if (index < 0 || index >= currentSize) {
+            throw std::out_of_range("Index out of range");
+        }
+        return elements[index];
     }
 
     int size() const {
-        // implement size here
+        return currentSize;
     }
 
     void clear() {
-        // implement clear here
+        delete[] elements;
+        elements = nullptr;
+        capacity = 0;
+        currentSize = 0;
     }
 };

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0427bd6b-eb82-4c35-899a-91169a74d5c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework1a-intro-to-cpp/test_files/.idea/test_files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/cache-v2-2b15455de2ca1c4394f1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-27265f58ae209750d0f0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e46c5190da27486746d4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/index-2023-09-15T02-53-09-0717.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-CS235-Debug-c0005ecbb568162a00dd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1555a5ce31899eddd569.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1a-intro-to-cpp/numbers_divisible_by.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1b-file-io/longest_line.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1b-file-io/reformat.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1c-references/head.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit01-Intro-to-cpp/homework1c-references/sort.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit02-STL-data-structures/homework2a-uniq/uniq.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit02-STL-data-structures/homework2b-vector-set/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit02-STL-data-structures/homework2c-pqueues/pqueues.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit03-Sorting/homework3b-maze/maze.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit03-Sorting/homework3c-insertion-sort/sort.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit03-Sorting/homework3d-quicksort/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit04-Mechanics-of-lists/homework4a-sllist/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit04-Mechanics-of-lists/homework4b-dllist/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit04-Mechanics-of-lists/homework4c-vector/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit05-Mechanics-of-trees/homework5a-bst-traversal/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit05-Mechanics-of-trees/homework5b-bst/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit05-Mechanics-of-trees/homework5c-avl-rebalance/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit05-Mechanics-of-trees/homework5d-avl/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CS235.dir/Unit06-Mechanics-of-hashtables/homework6a-hashset/tests.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/CS235.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/CS235.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1a-intro-to-cpp/.idea/homework1a-intro-to-cpp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework1a-intro-to-cpp/.idea/homework1a-intro-to-cpp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1a-intro-to-cpp/calculator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework1a-intro-to-cpp/calculator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1a-intro-to-cpp/numbers_divisible_by.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework1a-intro-to-cpp/numbers_divisible_by.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1b-file-io/longest_line.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework1b-file-io/longest_line.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1b-file-io/reformat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework1b-file-io/reformat.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1c-references/head.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework1c-references/head.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1c-references/sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework1c-references/sort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1c-references/test_files/sort_test1.dialog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homework1c-references/test_files/sort_test1.dialog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit02-STL-data-structures/homework2a-uniq/uniq.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit02-STL-data-structures/homework2a-uniq/uniq.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2WHiyomb5sd1mP5WL3Gyxm82Al4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ahiat/CS235",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0427bd6b-eb82-4c35-899a-91169a74d5c7" name="Changes" comment="" />
+      <created>1696396167055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696396167055</updated>
+      <workItem from="1696396168049" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

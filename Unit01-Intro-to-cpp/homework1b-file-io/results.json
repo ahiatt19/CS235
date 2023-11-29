@@ -1,0 +1,557 @@
+{
+    "tests": [
+        {
+            "score": 25.0,
+            "max_score": 25.0,
+            "name": "test_longest_line.py::test_2[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-11]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-11]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-11]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-12]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-12]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-12]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-13]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-13]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-13]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-14]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-14]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-14]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[last-15]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[first-15]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_reformat.py::test_1[result-15]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[last-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[first-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_reformat.py::test_2[result-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 24.1071,
+            "max_score": 25.0,
+            "name": "test_longest_line.py::test_1[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'six words are on this line\\r\\n                                                    ' == 'six words are on this line\\n                                                     '\nE             - six words are on this line\nE             + six words are on this line\r\nE             ?                           +\nE             -                                                      \nE             ?                                                     -\nE             +\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.933,
+            "max_score": 2.5,
+            "name": "test_reformat.py::test_1[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           assert Observed (left) == Expected (right)\nE             Smith, Alice: 37.5         | Smith, Alice: 37.5        \nE             Johnson, Bob: 102          | Johnson, Bob: 102         \nE             Brown, Charlie: 55.8       | Brown, Charlie: 55.8      \nE             Lee, David: 85.8           | Lee, David: 85.8          \nE             Williams, Elizabeth: 135   | Williams, Elizabeth: 135  \nE             Miller, Frank: 70          | Miller, Frank: 70         \nE             Davis, Grace: 44           | Davis, Grace: 44          \nE             Wilson, Henry: 161.5       | Wilson, Henry: 161.5      \nE             Martinez, Isabella: 104    | Martinez, Isabella: 104   \nE             Taylor, James: 31.5        | Taylor, James: 31.5       \nE             Thompson, Katherine: 63.65 | Thompson, Katherine: 63.65\nE             Robinson, Liam: 123.2      | Robinson, Liam: 123.2     \nE             Garcia, Mia: 75.6          | Garcia, Mia: 75.6         \nE             Hernandez, Noah: 49.3      | Hernandez, Noah: 49.3     \nE             Thomas, Olivia: 102.5      | Thomas, Olivia: 102.5     \nE             Thomas, Olivia: 102.5      |\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.7606,
+            "max_score": 2.5,
+            "name": "test_reformat.py::test_2[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           assert Observed (left) == Expected (right)\nE             Nguyen, Peter: 83.6      | Nguyen, Peter: 83.6     \nE             Davis, Rachel: 109.2     | Davis, Rachel: 109.2    \nE             Wilson, Samantha: 55.8   | Wilson, Samantha: 55.8  \nE             Mitchell, Thomas: 71     | Mitchell, Thomas: 71    \nE             Patel, Uma: 48.45        | Patel, Uma: 48.45       \nE             Lee, Vivian: 145.6       | Lee, Vivian: 145.6      \nE             Garcia, William: 94.8    | Garcia, William: 94.8   \nE             Hernandez, Xavier: 123.2 | Hernandez, Xavier: 123.2\nE             Kim, Yvonne: 65.55       | Kim, Yvonne: 65.55      \nE             Baker, Zachary: 56.7     | Baker, Zachary: 56.7    \nE             Baker, Zachary: 56.7     |\n\n/home/ahiatt19/.local/lib/python3.10/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        }
+    ]
+}

@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
+
+
 std::string input(std::string prompt) {
     std::cout << prompt;
     std::cout.flush();
@@ -10,33 +13,54 @@ std::string input(std::string prompt) {
 }
 
 int main(int argc, char const* argv[]) {
-    double numeroUno, numeroDos;
-    std::string opr = "nada"
-    double answero;
-
+    string opr = "nada";
+    double answer;
 
     while (!opr.empty()) {
-        cout << "Enter a arithmetic operation: " << endl;
-        // cin >> opr;
-        getline(cin, opr);
+        string opr;
+        opr = input("operation: ");
 
+        if (opr == "divide") {
+            int num1;
+            int num2;
+            num1 = stoi(input("left operand: "));
+            num2 = stoi(input("right operand: "));
+            answer = num1 / num2;
+            cout << answer << endl;}
 
-        if ((opr == '/') || (opr == "divide")) {
-            cout << "Enter a primero number" << endl;
-            cin >> numeroUno;
-            cout << "Enter a segundo number" << endl;
-            cin >> numeroDos;
+        else if (opr == "multiply") {
+            int num1;
+            int num2;
+            num1 = stoi(input("left operand: "));
+            num2 = stoi(input("right operand: "));
+            answer = num1 * num2;
+            cout << answer << endl;}
 
+        else if (opr == "add") {
+            int num1;
+            int num2;
+            num1 = stoi(input("left operand: "));
+            num2 = stoi(input("right operand: "));
+            answer = num1 + num2;
+            cout << answer << endl;}
 
-            answero = numeroUno / numeroDos
-            cout << "The sum is: " << answero << endl;
-        }
-        else {
-            cout << "don't know what to do" << endl;
-        }
+        else if (opr == "subtract") {
+            int num1;
+            int num2;
+            num1 = stoi(input("left operand: "));
+            num2 = stoi(input("right operand: "));
+            answer = num1 - num2;
+            cout << answer << endl;}
+
+        else if (opr == "mod") {
+            int num1;
+            int num2;
+            num1 = stoi(input("left operand: "));
+            num2 = stoi(input("right operand: "));
+            answer = int(num1) % int(num2);
+            cout << answer << endl;}
+        else if (opr.empty()) {break;}
+        else {cout << opr << " isn't a valid operation" << endl;}
     }
-
-
     return 0;
 }
-
